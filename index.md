@@ -2,7 +2,7 @@
 layout: default
 ---
 
-- ⎨% camicardi's work.md %⎬
+- ⎨%camicardi's work.md %⎬
 
 <br>
 
