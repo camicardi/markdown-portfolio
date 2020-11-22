@@ -6,9 +6,9 @@ layout: default
 
 <br>
 
-{% include 02-image.md %}
+![image of cami cardi](https://camicardi/images/github.png)
 
 <br>
 
-{% include 03-links.md %}
+[camicardi](http://github.com)
 
