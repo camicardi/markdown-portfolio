@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include 01-camicardi.md %}
+
 
 <br>
 
